@@ -9,7 +9,7 @@
     PostgreSQL
     
 # Comments:
-    A lot of attention was given to creating custom reusable utilities for the DAO(Data access object) layer, models, filters with pagination and sorting. These were the main and most challenging aspects of the project, that is why custom classes and interfaces were created - to be able to freely implement reusable solutions for pagination, sorting, data seperation.
+    A lot of attention was given to creating custom reusable utilities for the DAO(Data access object) layer, models, filters with pagination and sorting. These were the main and most challenging aspects of the project, that is why custom classes and interfaces were created - to be able to freely implement reusable solutions for pagination, sorting, data seperation. I also included a sql script that showcases the entire database schema after the project is built and run successfully.
     
 # Yet to be done - exception handling:
     I did not tackle exception handling so that I could spare some time with the most critical parts of the project.
